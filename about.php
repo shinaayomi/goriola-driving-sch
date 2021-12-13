@@ -131,6 +131,7 @@
                     <div class="single-testimonial-inner">
                         <img class="side-icon" src="assets/img/icon/9.png" alt="img">
                         <p>"My experience with Goriola driving school so far has been amazing. The school posses good facilities and professional instructors..."</p>
+                        <br /> <br />
                         <div class="media">
                             <div class="media-left">
                                 <img src="assets/img/team/pic-1.png" alt="img">
@@ -161,6 +162,7 @@
                     <div class="single-testimonial-inner">
                         <img class="side-icon" src="assets/img/icon/9.png" alt="img">
                         <p>"I highly recommend Academy School of Driving My son took his drivers permit course here and we we’re both so pleased with the the whole experience. The office staff is present and helpful, the driving instructors were kind and informative. We are thankful that we chose Goriola Driving School!"</p>
+                        <br /> <br /> <br /> <br />
                         <div class="media">
                             <div class="media-left">
                                 <img src="assets/img/team/pic-3.png" alt="img">

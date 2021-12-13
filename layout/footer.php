@@ -1,7 +1,7 @@
     <!-- footer area start -->
     <footer class="footer-area bg-overlay" style="background-image: url('assets/img/bg/3.png');">
         <div class="container">
-            <div class="subscribe-area-inner style-white pl-0 pr-0 pt-0">
+            <!-- <div class="subscribe-area-inner style-white pl-0 pr-0 pt-0">
                 <div class="row">
                     <div class="col-xl-7 col-lg-6 align-self-center mb-4 mb-lg-0">
                         <h3>Subscribe to our newsletter</h3>
@@ -14,15 +14,15 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="widget widget_about pr-xl-4">
-                        <div class="thumb">
-                            <img src="assets/img/logo-2.png" alt="img">
+                        <div class="thumb text-white">
+                            <img src="assets/img/logo-1.png" alt="Goriola">
                         </div>
                         <div class="details">
-                            <p>Drivic to bring significant changes online based learning by doing resed cased learning by cosin extensive of arch for Driving course</p>
+                            <p>Goriola Driving School brings significant changes based on driving skills by guiding and every student to meet their driving skill goal.</p>
                             <ul class="social-media">
                                 <li>
                                     <a class="btn-base-m" href="#">
@@ -88,7 +88,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 align-self-center">
-                        <p>Copyright © 2021 Drivic. All Right reserved.</p>
+                        <p>Copyright © 2021 Goriola Driving School. All Right reserved.</p>
                     </div>
                 </div>
             </div>

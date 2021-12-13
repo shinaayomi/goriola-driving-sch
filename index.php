@@ -31,8 +31,8 @@
                             <img src="assets/img/intro/1.png" alt="img">
                         </div>
                         <div class="details media-body">
-                            <h4>Easy Learn Driving</h4>
-                            <p>Easy Learn Driving sit amet, adipe elit</p>
+                            <h4>Learn Driving</h4>
+                            <p>Learn Driving easily from Goriola Driving School</p>
                         </div>
                     </div>
                 </div>
@@ -42,8 +42,8 @@
                             <img src="assets/img/intro/2.png" alt="img">
                         </div>
                         <div class="details media-body">
-                            <h4>National Instructor</h4>
-                            <p>National Learn Driving sit amet, adipe elit</p>
+                            <h4>Instructor</h4>
+                            <p>Learn yourr driving skills from professional instructor.</p>
                         </div>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                         </div>
                         <div class="details media-body">
                             <h4>Get licence</h4>
-                            <p>licence Learn Driving sit amet, adipe elit</p>
+                            <p>Learn and get your Driver's licence at a sit.</p>
                         </div>
                     </div>
                 </div>
@@ -388,6 +388,7 @@
                     <div class="single-testimonial-inner">
                         <img class="side-icon" src="assets/img/icon/9.png" alt="img">
                         <p>"I highly recommend Academy School of Driving My son took his drivers permit course here and we we’re both so pleased with the the whole experience. The office staff is present and helpful, the driving instructors were kind and informative. We are thankful that we chose Goriola Driving School!"</p>
+                        <br /> <br /> <br /> <br /> 
                         <div class="media">
                             <div class="media-left">
                                 <img src="assets/img/team/pic-3.png" alt="img">
